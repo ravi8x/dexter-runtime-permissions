@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Runtime Permissions</string>
+    <string name="camera_permission">Camera Permission</string>
+    <string name="multiple_permissions">Multiple Permissions</string>
+    <string name="permissions_title">Need Permissions</string>
+    <string name="permissions_message">This app needs permission to use this feature. You can grant them in app settings.</string>
+    <string name="cancel">Cancel</string>
+    <string name="goto_settings">Go to settings</string>
+</resources>
